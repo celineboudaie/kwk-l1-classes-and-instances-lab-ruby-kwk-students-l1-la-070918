@@ -1,5 +1,7 @@
 # dog.rb
 
 class Dog 
-  def intialize
-    
+
+end
+
+dog_one = Dog.new
